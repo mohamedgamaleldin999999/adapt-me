@@ -1,3 +1,4 @@
+/* eslint-disable no-undef */
 const pet = (props) => {
   return React.createElement("div", {}, [
     React.createElement("h1", {}, props.name),
